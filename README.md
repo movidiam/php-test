@@ -1,5 +1,9 @@
 # Movidiam PHP test for candidates
 
+**Please don't fork this repository** - clone it and send us a zip file with everything in
+
+## Instructions
+
 Write a **CLI tool** using PHP that
 
 1. Fetches an amount of *top games* from the [twitch.tv API](https://github.com/justintv/Twitch-API/blob/master/v3_resources/games.md#get-gamestop) specified by the user
